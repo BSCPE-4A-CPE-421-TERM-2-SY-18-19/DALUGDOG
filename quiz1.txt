@@ -1,0 +1,15 @@
+Why ASUS PC is not working?
+
+The PC won't boot to BIOS
+
+Possible causes of the problem
+1. Faulty RAM
+	Solution:
+		Try transfering to another slot or replace it.
+2. Faulty PCI Cards
+3. Misplaced front panel connectors
+4. Misplaced power supply cables:
+	Solution:
+		Check the 24-pin ATX cable and the 4 pin or 8 pin CPU connector.
+5. The CPU is dead
+6. PSU is not working properly
