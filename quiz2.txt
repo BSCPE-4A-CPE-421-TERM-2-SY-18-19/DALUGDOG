@@ -1,0 +1,5 @@
+Why the raspi is working?
+
+1. It has a correct power supply.
+2. Memory card is working.
+3. Memory card has an OS.
